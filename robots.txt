@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocorawasunari.github.io/sitemap.xml
